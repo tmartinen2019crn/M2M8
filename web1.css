@@ -1,0 +1,61 @@
+
+#primer{
+ width: auto;
+ height: 120px;
+ margin: 10px 10px 10px 10px;
+
+}
+.logo{
+ width: 120px;
+ height: auto;
+ border-radius: 100%;
+
+}
+#menu{
+ text-align: right;
+ display: block;
+}
+#menu li{
+ display: inline;
+ margin: 0 10px;
+ position: relative;
+ top: -85px;
+
+}
+.fondo{
+ width: 1000px;
+ height: auto;
+ margin: 0px 0px 0px 410px;
+ background-color: white;
+}
+li{
+ background-color: MistyRose;
+ border-radius: 5px;
+
+}
+a{
+text-align:center;
+text-decoration: none;
+}
+.entra{
+position: absolute;
+border-radius: 10px;
+width: 100px;
+height: 50px;
+text-align: center;
+font-size: 40px;
+top: 500px;
+left: 860px;
+}
+.entra:link{
+color: white;
+}
+.entra:visited{
+color: #1ebcef;
+}
+.entra:hover{
+background-color: white;
+}
+.entra:active{
+color: pink;
+}
