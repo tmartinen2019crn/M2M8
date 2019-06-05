@@ -1,0 +1,76 @@
+body{
+  background-color: #DDD;
+  margin: 0 auto;
+
+}
+p{
+color: grey;
+}
+#menu li{
+  display: inline;
+  margin: 0 10px;
+}
+#menu{
+  margin: 0 auto;
+  text-align: left;
+  display: inline-block;
+}
+#primer{
+  background-color: #FFF;
+  width: auto;
+  height: 100px;
+}
+.cupula{
+  width: 170px;
+  height: auto;
+}
+#todo{
+  width: 70%;
+  margin: 0 auto;
+}
+.tete{
+  background-color: white;
+  width: 250px;
+  height: 750px;
+  float:left;
+  margin: 10px;
+}
+.tate{
+  background-color: white;
+  width: 250px;
+  height: 750px;
+  float:left;
+  margin: 10px;
+}
+.tute{
+  background-color: white ;
+  width: 250px;
+  height: 750px;
+  float:left;
+  margin: 10px;
+}
+.tite{
+  background-color: white ;
+  width: 250px;
+  height: 750px;
+  float:left;
+  margin: 10px;
+
+
+}
+#tt{
+  width: 250px;
+  height: auto;
+}
+#nazario{
+  width: 40px;
+  height: auto;
+  border-radius: 50px;
+  margin: 6px;
+}
+#preciio{
+  padding-left: 200px;
+}
+#aña{
+
+}

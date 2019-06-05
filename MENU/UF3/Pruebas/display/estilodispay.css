@@ -1,0 +1,27 @@
+p{
+  color: red;
+  border: solid 2px black;
+}
+#tigre{
+  float: left;
+}
+div{
+  padding: 500px;
+}
+.ex1{
+  display: none;
+}
+.ex2{
+  display: inline;
+  height: 70px;
+  width: 80px;
+}
+.ex3{
+  display: block;
+}
+.ex4{
+ display: inline-block;
+ height: 200px;
+ width: 200px;
+
+}
